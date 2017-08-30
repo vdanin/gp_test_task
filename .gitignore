@@ -1,0 +1,8 @@
+node_modules
+/test
+/bin
+.idea/
+.will-be-removed-after-cucumber-runs.tmp
+my_report.*
+results.json
+

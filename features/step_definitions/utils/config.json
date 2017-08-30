@@ -1,0 +1,7 @@
+{
+  "seleniumUrl": "http://localhost:4444",
+  "appUrl":"http://sports.williamhill.com/betting/en-gb",
+  "login":"WHATA_FOG4",
+  "password":"F0gUaTtest",
+  "fullName":"Hi FOG"
+}
