@@ -1,4 +1,4 @@
-Feature:  Payday 
+Feature:  Payday
 
 
   Scenario :As a payroll accountant I should have ability to download report for current month
