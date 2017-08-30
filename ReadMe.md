@@ -26,18 +26,18 @@ result message appears -  In 1970, £12,345,678,910 0s 0d would have the same sp
 
 Exploratory testing notes:
 --------------
-1.Input 1p,1s, 1d and click submit button
-2.choose first and last value from year dropdown
-3.input 0XX0p,0s,1d values
-4.input 00p,0XX0s,0d values
-5.input 00p,00s,0XX0d values
-6.input negative values
-7.input letters
-8.input symbols
-9.input 6 digit values
-10.input 9 digit values
-11.input 10 digit values
-12.input 11 digit values
+1. Input 1p,1s, 1d and click submit button
+2. choose first and last value from year dropdown
+3. input 0XX0p,0s,1d values
+4. input 00p,0XX0s,0d values
+5. input 00p,00s,0XX0d values
+6. input negative values
+7. input letters
+8. input symbols
+9. input 6 digit values
+10. input 9 digit values
+11. input 10 digit values
+12. input 11 digit values
 
 
 Email:
