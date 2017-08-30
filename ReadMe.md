@@ -56,7 +56,7 @@ Vladyslav Danin.
 Beautiful-Tea QA team.
 
 
-Pros * Cons of CucumberJS:
+Pros & Cons of CucumberJS:
 ==============
 
 Pros:
