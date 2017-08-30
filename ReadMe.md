@@ -47,12 +47,37 @@ Hello Mark,
 I've been analysing our user story 328, but was unable to find any features related to price change for that story.
 I can see there are scenarios for  Free shipping in Australia/No free shipping outside Australia
 But none of them actually have statements related to functionality of price change when user observes his cart.
+This could lead us to potential money loss.
 Can you please clarify me on this?
-Probably this is something that we should discuss with Janet and Dave as they are business owners?
+Probably this is something that we should discuss with Janet and Dave as they are business owners.
 
 Kind regards,
 Vladyslav Danin.
 Beautiful-Tea QA team.
+
+
+Pros * Cons of CucumberJS:
+==============
+
+Pros:
+-----------
+1. Fast
+2. Good modules management
+3. Easy to use
+4. Functional and scripted
+5. js/jquery support from the box.
+6. extensions are useful.
+
+Cons:
+------------
+1. I don't like JS
+2. Synchronous language which forces you to use async awaits(only ECMA6) or promises/callbacks
+3. CucumberJS does not work with async awaits
+4. Does not suite good for not-full angular apps
+
+
+
+
 
 
 
